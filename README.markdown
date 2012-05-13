@@ -6,7 +6,7 @@ Cipher is a plain text EE fieldtype that displays content correctly in the publi
 
 ## Installation
 
-1. Upload the Cipher directory to /system/expressionengine/third_party.
+1. Create a directory within /system/expressionengine/third_party called "cipher" and upload ft.cipher.php to it.
 
 2. Navigate to Add-ons -> Fieldtypes and click Install next to the Cipher fieldtype.
 
